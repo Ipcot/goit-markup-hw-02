@@ -85,6 +85,7 @@ body {
   line-height: 1.87;
   letter-spacing: 0.06em;
   color: var(--button-text-color);
+  background-color: var(--accent-color);
 }
 .hero {
   background-color: var(--background-color-hero);
